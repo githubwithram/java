@@ -20,6 +20,14 @@ public class datatypes {
 		System.out.println(Value);
 		System.out.println(chr);
 		System.out.println(salary);
+		
 	}
 
 }
+
+
+/*Default values 
+int --> 0
+float --> 0.0
+bolean --> false
+String --> null */
